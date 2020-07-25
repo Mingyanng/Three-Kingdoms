@@ -10,21 +10,21 @@ Game language:Japanese
 
 Programming language:
 
-front end:Processing
+Front end:Processing
 
-back end:Java
-
-
+Back end:Java
 
 
-images:
+
+
+Images:
 
 https://pixabay.com/zh/vectors/rock-paper-scissors-game-roshambo-156171/
 
 
 
 
-serif:   
+Serif:   
 
 http://musou.s38.xrea.com/sangokumusou4/voice_character.html
 

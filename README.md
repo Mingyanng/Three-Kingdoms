@@ -1,9 +1,14 @@
-Name:Three Kingdoms
+name:Three Kingdoms
 
 
 
 
-Language:
+game language:Japanese
+
+
+
+
+programming language:
 
 front end:Processing
 

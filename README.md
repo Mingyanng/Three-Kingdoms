@@ -19,7 +19,7 @@ Back end:Java
 
 Images:
 
-https://pixabay.com/zh/vectors/rock-paper-scissors-game-roshambo-156171/
+https://pixabay.com/vectors/rock-paper-scissors-game-roshambo-156171/
 
 
 

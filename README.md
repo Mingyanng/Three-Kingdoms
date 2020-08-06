@@ -14,7 +14,7 @@ Front end:Processing
 
 Back end:Java
 
-Java version:1.8
+Java version: jdk1.8.0_261
 
 Tools:Eclipse,Processing
 

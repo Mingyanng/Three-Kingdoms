@@ -180,7 +180,7 @@ public class ThreeKingdoms extends PApplet{
 	
 	String[] playerfserifwinowergame2 = {"覇道は成した…これからは天の道を行こう。", "乱世は去った！さあ、皆で新しい時代を歩んでいこう。", "新たな天下を始まりましょう。"};
 	
-	String[] director = {"ディレクター", "傅 明揚"};
+	String[] director = {"ディレクター", "Mingyanng"};
 	
 	String[] playerfserifsoloendstr = {"覇道では…天下は定まらぬのか？", "桃園の花は…散ってしまったか…", "父や兄には…及ばぬ…か…"};
 	

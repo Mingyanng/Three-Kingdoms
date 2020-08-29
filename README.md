@@ -49,6 +49,6 @@ https://www.youtube.com/watch?v=KvM5FCGRq0E
 ![image7](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%898.PNG)
 ![image8](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%899.PNG)
 ![image9](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%899.PNG)
-![image12](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%8912.PNG)
 ![image13](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%8913.PNG)
+![image12](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%8912.PNG)
 ![image11](https://github.com/Mingyanng/Three-Kingdoms/blob/master/readmeImage/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%8911.PNG)
